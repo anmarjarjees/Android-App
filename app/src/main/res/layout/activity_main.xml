@@ -32,11 +32,10 @@
         android:layout_height="wrap_content"
         app:layout_constraintTop_toTopOf="parent"
         tools:layout_editor_absoluteX="1dp">
-
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputEditText
-        android:id="@+id/txtInLayouFavSubject"
+        android:id="@+id/txtInLayoutFavSubject"
         android:layout_width="match_parent"
         android:layout_height="61dp"
         android:layout_marginStart="8dp"
